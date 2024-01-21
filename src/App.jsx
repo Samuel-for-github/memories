@@ -9,7 +9,7 @@ function App() {
       name: "Niosh",
       occuption: "Sound Engineer, Mumbai",
       quote: "When you dont have mobile read manga",
-      src: "https://dub.sh/NnQwl59",
+      src: `${niosh}`,
     },
   ]);
 
