@@ -28,7 +28,7 @@ const info = [
     <div className="flex flex-col gap-4">
     <Card name={data[0].name} occuption={data[0].occuption} quote={data[0].quote} src={data[0].src}/>   
 
-    <div className='flex gap-4'>
+    <div className='flex flex-col md:flex-row gap-4'>
 
     {info.map((key)=>(
     <button key={key.name} 
