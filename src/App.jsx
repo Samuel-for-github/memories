@@ -37,7 +37,7 @@ const info = [
     }}
     
     >
-      <img src={key.src} width={120} alt="" />
+      <img src={key.src} width={120} />
     </button>
    ))}
   
