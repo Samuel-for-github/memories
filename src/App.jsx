@@ -42,7 +42,7 @@ function App() {
 
     {
       name: "Gauresh",
-      occuption: "Badminton Player, Goa",
+      occuption: "Shruti Mausi Lover, Goa",
       quote: "Mai bhul gaya",
       src: `${gauresh}`,
     },
